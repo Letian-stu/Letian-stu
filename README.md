@@ -1,4 +1,4 @@
-<p align="center">Hi my name is letian 👋 </p>
+<p align="center">Hi! Welcome!👋 </p>
 
 <p align="center">
     <a href="https://github.com/Letian-stu/computer-vision-in-action">
